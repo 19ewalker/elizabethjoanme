@@ -1,4 +1,2 @@
-# elizabethjoanme
-personal website take 2
-
-trying this again
+# Hi! My name is Elizabeth Walker
+A Columbia Engineering student attempting to learn HTML
