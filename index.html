@@ -12,6 +12,19 @@ layout: default
     <a href="#education">Education</a>
     <a href="#skills">Skills</a>
   </div>
+    <script>
+      window.onscroll = function() {myFunction()};
+      var navbar = document.getElementById("navbar");
+      var sticky = navbar.offsetTop;
+      function myFunction() {
+        if (window.pageYOffset >= sticky) {
+          navbar.classList.add("sticky")
+        } 
+        else {
+          navbar.classList.remove("sticky");
+        }
+      }
+    </script>
     <h1> Nice to meet you! </h1>
      <meta name="description" content="my portfolio"/>
   </head>
