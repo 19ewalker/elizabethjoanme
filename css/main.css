@@ -3,6 +3,7 @@ nav ul, footer ul {
     padding: 20px;
     list-style: none;
     font-weight: bold;
+    color: #F2F2F2;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -41,8 +42,7 @@ footer {
   display: block;
   text-align: center;
   padding: 14px;
-  text-decoration: none;
-  color: #21618C; !important
+  text-decoration: underline;
 }
 html {
     scroll-behavior: smooth;
