@@ -15,6 +15,6 @@ Here are some webpages that were very helpful to me in coding this website!!
 </ul>
 <b> Style </b>
 <ul>
-  <li><a href="https://www.w3schools.com/cssref/pr_scroll-behavior.asp" CSS scroll-behavior property</a></li>
+  <li> <a href="https://www.w3schools.com/cssref/pr_scroll-behavior.asp"> CSS scroll-behavior property</a></li>
   </ul>
   
