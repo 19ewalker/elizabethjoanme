@@ -12,12 +12,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1em;
-    line-height: 1.1em;
+    font-size: .8em;
+    line-height: .9em;
     color: #333;
 }
 footer {
@@ -28,7 +28,6 @@ footer {
 #navbar {
   overflow: hidden;
 }
-
 /* Navbar links */
 #navbar a {
   float: left;
@@ -38,17 +37,10 @@ footer {
   padding: 14px;
   text-decoration: none;
 }
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 50%;
-}
 html {
     scroll-behavior: smooth;
 }
+/* Column and row styling */
 .column {
   float: left;
   width: 50%;
@@ -59,46 +51,7 @@ html {
   clear: both;
   display: table;
 }
-
 /* Page content */
 .content {
   padding: 16px;
-}
-/* Image styling */
-.images {
-    text-align:center;
-}
-.images img {
-    width:100px;
-    height:100px;
-}
-.images div {
-    width:100px;
-    text-align:center;
-}
-.images div span {
-    display:block;
-}
-.margin_right {
-    margin-right:50px;
-}
-.clear {
-    clear:both;
-    height:0;
-    width:0;
-}
-.block {
-  display: inline-block;
-  width: 200px;
-  height: 200px;
-  background-color: lightgray;
-}
-
-.container {
-  text-align: center;
-}
-.block img {
-    width:100px;
-    height:100px;
-    float: left;
 }
