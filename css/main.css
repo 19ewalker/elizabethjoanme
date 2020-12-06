@@ -53,6 +53,17 @@ footer {
 .html {
     scroll-behavior: smooth;
 }
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 /* Page content */
 .content {
   padding: 16px;
