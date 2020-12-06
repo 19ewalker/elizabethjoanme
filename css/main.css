@@ -68,3 +68,6 @@ footer {
 .content {
   padding: 16px;
 }
+img{
+    float: left;
+}
