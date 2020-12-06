@@ -3,6 +3,7 @@ nav ul, footer ul {
     padding: 20px;
     list-style: none;
     font-weight: bold;
+    color: #21618C;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -14,10 +15,14 @@ a:hover {
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #21618C;
+}
+h4 {
+    color: #21618C;
 }
 p {
-    font-size: .8em;
-    line-height: .9em;
+    font-size: .9em;
+    line-height: 1em;
     color: #333;
 }
 footer {
@@ -32,7 +37,7 @@ footer {
 #navbar a {
   float: left;
   display: block;
-  color: #333333; !important
+  color: #21618C ; !important
   text-align: center;
   padding: 14px;
   text-decoration: none;
