@@ -8,10 +8,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #333;
-}
 a:hover {
     text-decoration: underline;
 }
@@ -50,7 +46,7 @@ footer {
   text-decoration: none;
   border-radius: 50%;
 }
-.html {
+html {
     scroll-behavior: smooth;
 }
 .column {
@@ -68,6 +64,29 @@ footer {
 .content {
   padding: 16px;
 }
-img{
-    float: left;
+/* Image styling */
+.images {
+    text-align:center;
+}
+.images img {
+    width:100px;
+    height:100px;
+}
+.images div {
+    width:100px;
+    text-align:center;
+}
+.images div span {
+    display:block;
+}
+.margin_right {
+    margin-right:50px;
+}
+.float {
+    float:left;
+}
+.clear {
+    clear:both;
+    height:0;
+    width:0;
 }
