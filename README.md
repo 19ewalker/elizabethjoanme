@@ -13,3 +13,8 @@ Here are some webpages that were very helpful to me in coding this website!!
   <li> <a href="https://hub.packtpub.com/generic-section-single-page-based-website/">Generic sections for single page site</a></li>
   <li> <a href="https://www.w3schools.com/howto/howto_css_images_side_by_side.asp">How to Align Images Side By Side</a></li>
 </ul>
+<b> Style </b>
+<ul>
+  <li><a href="https://www.w3schools.com/cssref/pr_scroll-behavior.asp" CSS scroll-behavior property</a></li>
+  </ul>
+  
