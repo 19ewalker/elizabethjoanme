@@ -38,14 +38,6 @@ footer {
   padding: 14px 16px;
   text-decoration: none;
 }
-/* Crap I added to try making the navbar fixed */ 
-.navbar a:hover {
-  background: #ddd;
-}
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
-}
-/* End of crap */
 html {
     scroll-behavior: smooth;
 }
