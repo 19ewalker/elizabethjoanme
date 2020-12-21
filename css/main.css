@@ -16,11 +16,17 @@ h1 {
     #font-size: 2em;
     font-family: 'Archivo', sans-serif;
 }
+h2 {
+     font-family: 'Archivo', sans-serif;
+}
+h3 {
+     font-family: 'Archivo', sans-serif;
+}
 p {
     /*font-size: .9em;*/
     /*line-height: 1em;*/
     color: #333;
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
