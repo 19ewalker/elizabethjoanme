@@ -1,5 +1,5 @@
 nav ul, footer ul {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Archivo', sans-serif;
     padding: 20px;
     list-style: none;
     font-weight: bold;
@@ -14,13 +14,13 @@ a:hover {
 }
 h1 {
     #font-size: 2em;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Archivo', sans-serif;
 }
 p {
     /*font-size: .9em;*/
     /*line-height: 1em;*/
     color: #333;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Archivo', sans-serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -38,7 +38,7 @@ footer {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Archivo', sans-serif;
 }
 html {
     scroll-behavior: smooth;
