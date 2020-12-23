@@ -12,20 +12,10 @@ nav ul li, footer ul li {
 a:hover {
     text-decoration: underline;
 }
-ul{
-    font-size:.9em;
-}
 h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     /*font-family: 'Archivo', sans-serif;*/
 }
-/*
-h2 {
-     font-family: 'Archivo', sans-serif;
-}
-h3 {
-     font-family: 'Archivo', sans-serif;
-} */
 p {
     color: #333;
     font-family: 'Open Sans', sans-serif; !important
@@ -35,25 +25,32 @@ footer {
     font-size: .9em;
 }
 /* Style the navbar */
-navbar {
+nav {
   overflow: hidden;
 }
 /* Navbar links */
-navbar a {
+nav li.nav-item{
   float: left;
   display: block;
-  color: #f2f2f2; !important 
+  font-size: 14px;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  /*font-family: 'Archivo', sans-serif;*/
+}
+nav ul.navbar-nav{
+    float: left;
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 html {
     scroll-behavior: smooth;
 }
 /* Column and row styling */
-.container-fluid {
-    border-top: 1px solid #d5d5d5;
+div{
+    border: 1px solid gray;
 }
 .column {
   float: left;
