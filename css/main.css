@@ -26,9 +26,10 @@ h3 {
      font-family: 'Archivo', sans-serif;
 }
 p {
-    font-size: .9em;
+    font-size: 1em;
+    line-height: 1.1em;
     color: #333;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif; !important
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -47,7 +48,8 @@ footer {
   padding: 14px 16px;
   text-decoration: none;
   font-family: 'Archivo', sans-serif;
-  font-size: 130%!important;
+  font-size: 130%; !important
+    border-bottom: 1px solid #d5d5d5;
 }
 html {
     scroll-behavior: smooth;
