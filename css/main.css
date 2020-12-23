@@ -1,5 +1,5 @@
 nav ul, footer ul {
-    font-family: 'Archivo', sans-serif;
+    /* font-family: 'Archivo', sans-serif; */
     padding: 20px;
     list-style: none;
     font-weight: bold;
@@ -18,14 +18,15 @@ ul{
 }
 h1 {
     font-size: 2em;
-    font-family: 'Archivo', sans-serif;
+    /*font-family: 'Archivo', sans-serif;*/
 }
+/*
 h2 {
      font-family: 'Archivo', sans-serif;
 }
 h3 {
      font-family: 'Archivo', sans-serif;
-}
+} */
 p {
     color: #333;
     font-family: 'Open Sans', sans-serif; !important
@@ -35,19 +36,18 @@ footer {
     font-size: .9em;
 }
 /* Style the navbar */
-#navbar {
+navbar {
   overflow: hidden;
 }
 /* Navbar links */
-#navbar a {
+navbar a {
   float: left;
   display: block;
   color: #f2f2f2; !important 
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: 'Archivo', sans-serif;
-  font-size: 1.8em; !important
+  /*font-family: 'Archivo', sans-serif;*/
 }
 html {
     scroll-behavior: smooth;
@@ -58,7 +58,7 @@ html {
   width: 50%;
   padding: 5px;
 }
-.row::after {
+.row:after {
   content: "";
   clear: both;
   display: table;
