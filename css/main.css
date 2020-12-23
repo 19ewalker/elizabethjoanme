@@ -61,6 +61,10 @@ nav ul li, footer ul li {
 a:hover {
     text-decoration: underline;
 }
+ul{
+    font-size:.9em;
+    line-height: 1em;
+}
 h1 {
     font-size: 2em;
 }
@@ -72,6 +76,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .9em;
 }
+/* Style the navbar */
 navbar {
   overflow: hidden;
 }
@@ -100,4 +105,3 @@ html {
 /* Page content */
 .content {
   padding: 16px;
-}
