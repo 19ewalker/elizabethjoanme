@@ -36,12 +36,6 @@ navbar a {
 html {
     scroll-behavior: smooth;
 }
-.container-fluid{
-    border-top: .5px solid #d5d5d5;
-}
-.container-navbar{
-    
-}
 .column {
   float: left;
   width: 50%;
