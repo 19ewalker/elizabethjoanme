@@ -42,11 +42,11 @@ html {
 }
 school ul{
     font-size: .8em;
-    line-height: 1.0em;
+    line-height: .95em;
 }
 school p{
     font-size: .8em;
-    line-height: 1.0em;
+    line-height: .95em;
 }
 .column {
   float: left;
