@@ -37,7 +37,7 @@ navbar a {
 html {
     scroll-behavior: smooth;
 }
-div{
+.container-fluid{
     border-bottom: .5px solid gray;
 }
 .column {
