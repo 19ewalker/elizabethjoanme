@@ -20,7 +20,7 @@ p {
     font-size: 1em;
 }
 ul{
-    font-height: 1em;
+    line-height: 1em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -41,6 +41,10 @@ navbar a {
 }
 html {
     scroll-behavior: smooth;
+}
+.school {
+    font-size: .9em;
+    line-height: 1em;
 }
 .column {
   float: left;
