@@ -38,7 +38,7 @@ html {
     scroll-behavior: smooth;
 }
 .container-fluid{
-    border-bottom: .5px solid gray;
+    border-top: .5px solid gray;
 }
 .column {
   float: left;
