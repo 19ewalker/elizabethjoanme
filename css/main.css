@@ -3,7 +3,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     color: #F2F2F2; !important
-    font-size: 16px;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -13,7 +12,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 1.8em;
+    font-size: 2em;
 }
 p {
     color: #333;
@@ -23,14 +22,14 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .9em;
 }
-/* Style the navbar */
-nav {
+navbar {
   overflow: hidden;
 }
 /* Navbar links */
-nav a{
+navbar a {
   float: left;
   display: block;
+  color: #f2f2f2; !important 
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -38,9 +37,8 @@ nav a{
 html {
     scroll-behavior: smooth;
 }
-/* Column and row styling */
 div{
-    bottom-border: .5px solid gray;
+    border-bottom: .5px solid gray;
 }
 .column {
   float: left;
