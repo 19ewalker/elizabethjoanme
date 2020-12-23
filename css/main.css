@@ -1,9 +1,9 @@
 nav ul, footer ul {
-    /* font-family: 'Archivo', sans-serif; */
     padding: 20px;
     list-style: none;
     font-weight: bold;
     color: #F2F2F2; !important
+    font-size: 16px;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -14,7 +14,6 @@ a:hover {
 }
 h1 {
     font-size: 1.8em;
-    /*font-family: 'Archivo', sans-serif;*/
 }
 p {
     color: #333;
@@ -29,28 +28,19 @@ nav {
   overflow: hidden;
 }
 /* Navbar links */
-nav li.nav-item{
+nav a{
   float: left;
   display: block;
-  font-size: 14px;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-nav ul.navbar-nav{
-    float: left;
-    display: block;
-    font-size: 14px;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
 }
 html {
     scroll-behavior: smooth;
 }
 /* Column and row styling */
 div{
-    border: 1px solid gray;
+    bottom-border: .5px solid gray;
 }
 .column {
   float: left;
